@@ -3,7 +3,9 @@
 </a>
 
 <p>
-  - 📚 Studying at Yonsei University Mirae Campus, Department of Software (2022.3 - Present)
+  - 📚 Studying at Yonsei University Mirae Campus, Department of Software (Mar 2022 - Present)
+  - 🧪 Undergraduate Research Assistant, Yonsei University Mirae Campus (Sep 2024 – Present)
+
 </p>
 
 <br><br>
