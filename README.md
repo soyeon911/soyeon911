@@ -1,6 +1,4 @@
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B86C87C8&width=435&lines=Hi+I'm+Soyeon+Park 😚" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B86C87C8&width=435&lines=Hi+I'm+Soyeon+Park+%F0%9F%98%9A)](https://git.io/typing-svg)
 
 <p>
   - 📚 Studying at Yonsei University Mirae Campus, Department of Software (Mar 2022 - Present)<br>
