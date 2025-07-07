@@ -35,7 +35,7 @@
 <h2>📊 GitHub Stats</h2>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=soyeon911&show_icons=true&theme=default" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=soyeon911&show_icons=true&theme=default&count_private=true" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyeon911&layout=compact&theme=default" height="180px" style="margin-left: 10px;"/>
 </p>
 
