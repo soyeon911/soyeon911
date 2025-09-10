@@ -2,7 +2,8 @@
 
 <p>
   - 📚 Studying at Yonsei University Mirae Campus, Department of Software (Mar 2022 - Present)<br>
-  - 🧪 Undergraduate Research Assistant, Yonsei University Mirae Campus (Sep 2024 – Present)
+  - 🧪 Undergraduate Research Assistant, Yonsei University Mirae Campus (Sep 2024 – Aug 2025)<br>
+  - 🦁 Kakao Tech Bootcamp - Cloud Course 3 (Sep 2025 - Present)
 </p>
 
 <br><br>
