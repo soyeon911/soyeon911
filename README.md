@@ -93,7 +93,7 @@ erDiagram
     }
 ```
 
-[👉 View Repository]([https://github.com/soyeon911/time-to-pill](https://github.com/wtaegyu/Time-to-Pill/tree/soyeon))
+[👉 View Repository](https://github.com/wtaegyu/Time-to-Pill/tree/soyeon)
 
 <br>
 
