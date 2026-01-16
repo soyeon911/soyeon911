@@ -11,7 +11,7 @@
 <br>
 
 <p>
-  📚 <b>Yonsei University Mirae Campus</b>, Dept. of Software (Mar 2022 - Present)<br>
+  📚 <b>Yonsei University Mirae Campus</b>, Dept. of Software (Mar 2022 - Feb 2026)<br>
   🧪 <b>Undergraduate Research Assistant</b> (Sep 2024 – Aug 2025)<br>
 </p>
 
