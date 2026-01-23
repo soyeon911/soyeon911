@@ -1,14 +1,5 @@
-# Hi there, I'm Soyeon Park 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DB7093&width=500&lines=Hi+There,+I'm+Soyeon+Park+🤩;)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E8B57&width=500&lines=Data+Analyst+turning+data+into+insights;Engineering+Background+with+SQL+%26+Python;Ready+for+Global+Partnerships+Analysis)](https://git.io/typing-svg)
-
-<p>
-  데이터의 흐름을 설계하고, 그 안에서 비즈니스 가치를 발견하는 예비 데이터 분석가 박소연입니다.<br>
-  단순한 수치 확인을 넘어, <b>시장 구조 분석과 타겟팅 전략을 도출</b>하는 데 강점이 있습니다.<br>
-  모바일 앱 개발 경험을 바탕으로 <b>유저 데이터가 생성되는 구조(Schema, Log)에 대한 높은 이해도</b>를 갖추고 있습니다.
-</p>
-
-<br>
 
 <p>
   📚 <b>Yonsei University Mirae Campus</b>, Dept. of Software (Mar 2022 - Feb 2026)<br>
@@ -100,8 +91,8 @@ erDiagram
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=soyeon911&show_icons=true&theme=minimal&count_private=true" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyeon911&layout=compact&theme=minimal" height="150px" style="margin-left: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=soyeon911&show_icons=true&theme=dracula" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyeon911&langs_count=8&layout=compact" height="200px" style="margin-left: 10px;"/>
 </p>
 
 ## 🧠 Problem Solving
