@@ -4,18 +4,21 @@
 <p>
   📚 <b>Yonsei University Mirae Campus</b>, Dept. of Software (Mar 2022 - Feb 2026)<br>
   🧪 <b>Undergraduate Research Assistant</b> (Sep 2024 – Aug 2025)<br>
+  💻 <b>Suprema Internship program (Mar 2026 - May 2026)</b>
 </p>
 
 <br>
 
 ## 🛠️ Tech Stack & Skills
 
-**Data Analysis & Engineering**
+**Languages**
 <p style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
+  <img alt="cplusplus" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="Pandas" src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=pandas&logoColor=black"/>
+  
 </p>
 
 **Mobile & Web Development**
