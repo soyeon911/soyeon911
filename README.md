@@ -2,7 +2,7 @@
 
 # 박소연 | Soyeon Park
 
-### Reliability-Oriented Software Engineer
+### Software Engineer
 
 **실패를 재현하고, 시스템의 상태 변화와 복구 과정을 검증합니다.**
 
@@ -253,18 +253,6 @@ API 명세만으로는 실제 도메인 제약과 상태 변화까지 검증하�
 `Spring Boot` `PostgreSQL` `Redis` `Docker Compose`  
 `k6` `Toxiproxy` `OpenTelemetry` `Prometheus` `Grafana`
 
-### SRE Learning Path
-
-- Linux 시스템과 네트워크
-- 컨테이너 운영과 오케스트레이션
-- Logs·Metrics·Traces 기반 관측 가능성
-- SLI·SLO와 Error Budget
-- 부하 테스트와 용량 계획
-- 장애 주입과 복구 자동화
-- Infrastructure as Code
-- Incident Response와 Postmortem
-
----
 
 <div align="center">
 
